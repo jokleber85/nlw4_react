@@ -8,11 +8,13 @@ Criando Aplicação React:</br>
 npx create-react-app "Nome da Aplicação"
 ```
 </br>
+
 Iniciar Servidor:</br>
 ```js
 npm run dev
 ```
-## </br></br>
+##
+</br></br>
 
 Criando Aplicação Next:</br>
 ```js
