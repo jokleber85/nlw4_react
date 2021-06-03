@@ -1,8 +1,16 @@
-NLW04 - Projeto MoveIt</br>
+NLW04 - Projeto MoveIt
 
-Data: 22/02/2021 - 28/02/2021 </br>
+Data: 22/02/2021 - 28/02/2021</br>
 
+[Deploy do Projeto - Vercel](https://moveit-psi-peach.vercel.app)
+## <br />
 
+Passo a passo para rodar o projeto:
+```js
+npm install
+npm run dev
+``` 
+## <br />
 Criando Aplicação React:</br>
 ```js
 npx create-react-app "Nome da Aplicação"
@@ -70,9 +78,3 @@ vercel --prod
 ```
 ##
 </br>
-
-
-Deploy do Projeto</br>
-[Vercel](https://moveit-psi-peach.vercel.app) 
-
-
